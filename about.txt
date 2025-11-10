@@ -1,1 +1,2 @@
-
+Hello! My name Shrushti Lingayat.
+This is my first GitHub project where I am learning basic repositary operations.
