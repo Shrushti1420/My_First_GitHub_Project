@@ -1,2 +1,3 @@
 Hello! My name Shrushti Lingayat.
 This is my first GitHub project where I am learning basic repositary operations.
+I plan to learn branching and pull requests.
